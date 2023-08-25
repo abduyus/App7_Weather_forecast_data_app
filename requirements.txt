@@ -1,2 +1,2 @@
 plotly.express
-debugpy==1.6.2
+debugpy==1.4.1
